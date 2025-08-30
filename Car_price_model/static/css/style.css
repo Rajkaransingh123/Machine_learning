@@ -1,0 +1,36 @@
+.bg_clr{
+    background-color: rgb(119, 15, 164);
+
+}
+
+.card{
+    margin : 20px 20px 20px;
+    background-color: rgb(119, 15, 164);
+}
+
+.card_head{
+    color: rgb(234, 228, 245);
+    background:rgb(119, 15, 175);
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.card_head h1{
+    margin: 0;
+    font-size: 35px;
+}
+
+.mesg_shown{
+    padding: 0px 100px 0px  50px ;
+}
+
+.card_body{
+    background:whitesmoke;
+    padding: 10px  10px  30px 40px ;
+    font-size:20px ;
+}
+
+.Select_button{
+             color: rgb(119, 15, 164);
+}
